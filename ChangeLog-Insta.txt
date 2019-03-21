@@ -1,1 +1,16 @@
+yyy{"version_code":15,"content":"
+<p>تحديث 1.50</p>
 
+<li>التحديث لنسخة الماركت 78.0.0.11.104</li>
+<li>امكانية تحميل الصورة/ الفيديو من الحسابات الخاصة </li>
+<li>إضافة خيار لتعطيل السحب يمين/ يسار في الواجهة الرئيسية</li>
+<li>اصلاح كافة المشاكل السابقة في الاصدار 1.40</li>
+
+
+<li>New Base Updated to 78.0.0.11.104</li>
+<li>Improved NOW you can Download Video/Images From Private Accounts</li>
+<li>Added Option to Disable Slide Navigation</li>
+<li>Fixed all bugs of v1.40</li>
+
+","url":"https://www.devsaif.com/2018/05/SAiNSTA.html"
+}
