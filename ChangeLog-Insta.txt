@@ -1,15 +1,22 @@
-{"version_code":11,"content":"
-<p>تحديث 1.00</p>
+{"version_code":7,"content":"
+<p>تحديث 1.10</p>
 
-<li>التحديث لنسخة الماركت 78.0.0.11.104</li>
-<li>امكانية تحميل الصورة/ الفيديو من الحسابات الخاصة </li>
-<li>إضافة خيار لتعطيل السحب يمين/ يسار في الواجهة الرئيسية</li>
-<li>اصلاح كافة المشاكل السابقة في الاصدار 1.40</li>
+<li> اعادة اضافة إخفاء انك شاهدت القصص(الستوري) </li>
+<li> اعادة إضافة ايقونة للدخول الى قسم الاضافات والخصائص في قسم البروفايل</li>
+<li> اعادة إضافة خيار لتشغيل الصوت مع الفيديو بشكل تلقائي</li>
+<li> اصلاح عدم امكانية تحميل الصور/الفيديوهات  من الحسابات الخاصة</li>
+<li> دعم نظام pie 9.0</li>
+<li> دعم اللغة الايطالية</li>
+<li> اصلاح انهيار التطبيق بنسبة 90%</li>
 
-<li>New Base Updated to 78.0.0.11.104</li>
-<li>Improved NOW you can Download Video/Images From Private Accounts</li>
-<li>Added Option to Disable Slide Navigation</li>
-<li>Fixed all bugs of v1.40</li>
+<li> ReAdded Option to Start Audio Directly with Video</li>
+<li> ReAdded InstaUltra Settings Icon on Header of profile</li>
+<li> ReAdded Privacy - Hide View Status</li>
+<li> Support Italian languages (thanks to tony)</li>
+<li> Fixed Download Video/Images Options (private accounts)</li>
+<li> Fixed InstaUltra crash (90%)</li>
 
-","url":"https://www.devsaif.com/2018/05/SAiNSTA.html"
+
+
+","url":"https://www.saifroid.com/2018/12/instagram.html"
 }
