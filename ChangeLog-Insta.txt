@@ -1,21 +1,22 @@
-{"version_code":8,"content":"
+{"version_code":9,"content":"
 <p>تحديث 1.20</p>
 
-<li> التحديث لنسخة الماركت 92.0.0.15.114 </li>
-<li> اضافة امكانية فتح اعدادات انستا الترا من خلال ضغطة مطولة على شعار Instagram في الواجهة الرئيسية. </li>
-<li> بات بامكانك اخفاء انك شاهدت رسالة شخص ما في DM  </li>
-<li> اضافة خيار لاخفاء انك شاهدت فيديو Live  لشخص ما. </li>
-<li> يمكنك عمل زووم (تكبير/تصغير) للصور الشخصية  من خلال الضغط المطول عليها </li>
-<li> دعم اللغة  العربية & المالايالامية & الفارسية & السواحلية & أندونيسية &  الإغريقية & الأسبانية & الألمانية & الملايو  & الإيطالية & البرتغالية </li>
-<li> اصلاحات اخرى </li>
+<li> التحديث لنسخة الماركت 92.0.0.15.114</li>
+<li> اضافة امكانية فتح اعدادات انستا الترا من خلال ضغطة مطولة على شعار Instagram في الواجهة الرئيسية.</li>
+<li> بات بامكانك اخفاء انك شاهدت رسالة شخص ما في DM</li>
+<li> اضافة خيار لاخفاء انك شاهدت فيديو Live  لشخص ما.</li>
+<li> يمكنك عمل زووم (تكبير/تصغير) للصور الشخصية  من خلال الضغط المطول عليها</li>
+<li> دعم اللغة  العربية & المالايالامية & الفارسية & السواحلية & أندونيسية &  الإغريقية & الأسبانية & الألمانية & الملايو  & الإيطالية & البرتغالية</li>
+<li> اصلاحات اخرى</li>
 
 <li> New Base Updated to 92.0.0.15.114 </li>
-<li> Added Privacy - Hide View live Video (Don't tell Anyone that you Viewed His/Her Video Live) </li>
-<li> Added Privacy - Hide Read Tick (Don't tell the sender that you have read the message) In DM </li>
-<li> Long-press on the Instagram logo (in Action Bar) to open InstaUltra Settings. </li>
-<li> Added Ability to Zoom Profile Pics (Press & Hold the Profile Image)  </li>
-<li> Support Arabic & Malayalam & Persian & Swahili & indonesia & Greek & Spanish & Germany & Malay & Italian & Portuguese languages </li>
-<li> Other Fixes.. </li>
+<li> Added Privacy - Hide View live Video (Don't tell Anyone that you Viewed His/Her Video Live)</li>
+<li> Added Privacy - Hide Read Tick (Don't tell the sender that you have read the message) In DM</li>
+<li> Long-press on the Instagram logo (in Action Bar) to open InstaUltra Settings.</li>
+<li> Added Ability to Zoom Profile Pics (Press & Hold the Profile Image)</li>
+<li> Support Arabic & Malayalam & Persian & Swahili & indonesia & Greek & Spanish & Germany & Malay & Italian & Portuguese languages</li>
+<li> Other Fixes..</li>
+
 
 
 
