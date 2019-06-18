@@ -1,20 +1,21 @@
-{"version_code":6,"content":"
-<p>تحديث 1.10</p>
+{"version_code":1,"content":"
+<p>تحديث 1.20</p>
 
-<li> اعادة اضافة إخفاء انك شاهدت القصص(الستوري) </li>
-<li> اعادة إضافة ايقونة للدخول الى قسم الاضافات والخصائص في قسم البروفايل</li>
-<li> اعادة إضافة خيار لتشغيل الصوت مع الفيديو بشكل تلقائي</li>
-<li> اصلاح عدم امكانية تحميل الصور/الفيديوهات  من الحسابات الخاصة</li>
-<li> دعم نظام pie 9.0</li>
-<li> دعم اللغة الايطالية</li>
-<li> اصلاح انهيار التطبيق بنسبة 90%</li>
+<li> التحديث لنسخة الماركت 92.0.0.15.114 </li>
+<li> اضافة امكانية فتح اعدادات انستا الترا من خلال ضغطة مطولة على شعار Instagram في الواجهة الرئيسية. </li>
+<li> بات بامكانك اخفاء انك شاهدت رسالة شخص ما في DM  </li>
+<li> اضافة خيار لاخفاء انك شاهدت فيديو Live  لشخص ما. </li>
+<li> يمكنك عمل زووم (تكبير/تصغير) للصور الشخصية  من خلال الضغط المطول عليها </li>
+<li> دعم اللغة  العربية & المالايالامية & الفارسية & السواحلية & أندونيسية &  الإغريقية & الأسبانية & الألمانية & الملايو  & الإيطالية & البرتغالية </li>
+<li> اصلاحات اخرى </li>
 
-<li> ReAdded Option to Start Audio Directly with Video</li>
-<li> ReAdded InstaUltra Settings Icon on Header of profile</li>
-<li> ReAdded Privacy - Hide View Status</li>
-<li> Support Italian languages (thanks to tony)</li>
-<li> Fixed Download Video/Images Options (private accounts)</li>
-<li> Fixed InstaUltra crash (90%)</li>
+<li> New Base Updated to 92.0.0.15.114 </li>
+<li> Added Privacy - Hide View live Video (Don't tell Anyone that you Viewed His/Her Video Live) </li>
+<li> Added Privacy - Hide Read Tick (Don't tell the sender that you have read the message) In DM </li>
+<li> Long-press on the Instagram logo (in Action Bar) to open InstaUltra Settings. </li>
+<li> Added Ability to Zoom Profile Pics (Press & Hold the Profile Image)  </li>
+<li> Support Arabic & Malayalam & Persian & Swahili & indonesia & Greek & Spanish & Germany & Malay & Italian & Portuguese languages </li>
+<li> Other Fixes.. </li>
 
 
 
