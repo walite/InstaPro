@@ -1,4 +1,4 @@
-{"version_code":7,"content":"
+{"version_code":8,"content":"
 <p>تحديث 1.20</p>
 
 <li> التحديث لنسخة الماركت 92.0.0.15.114 </li>
