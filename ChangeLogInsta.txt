@@ -1,4 +1,4 @@
-{"version_code":3,"content":"
+{"version_code":10,"content":"
 <p>تحديث 1.30</p>
 
 <li> التحديث لنسخة الماركت 100.0.0.17.129 </li>
