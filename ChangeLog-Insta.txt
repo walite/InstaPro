@@ -1,21 +1,43 @@
-{"version_code":7,"content":"
-<p>تحديث 1.20</p>
+{"version_code":10,"content":"
+<p>تحديث 1.30</p>
 
-<li> التحديث لنسخة الماركت 92.0.0.15.114</li>
-<li> اضافة امكانية فتح اعدادات انستا الترا من خلال ضغطة مطولة على شعار Instagram في الواجهة الرئيسية.</li>
-<li> بات بامكانك اخفاء انك شاهدت رسالة شخص ما في DM</li>
-<li> اضافة خيار لاخفاء انك شاهدت فيديو Live  لشخص ما.</li>
-<li> يمكنك عمل زووم (تكبير/تصغير) للصور الشخصية  من خلال الضغط المطول عليها</li>
-<li> دعم اللغة  العربية & المالايالامية & الفارسية & السواحلية & أندونيسية &  الإغريقية & الأسبانية & الألمانية & الملايو  & الإيطالية & البرتغالية</li>
-<li> اصلاحات اخرى</li>
+<li> التحديث لنسخة الماركت 100.0.0.17.129 </li>
+<li> اضافة امكانية فتح اعدادات انستا برو من خلال ضغطة مطولة على شعار Instagram في الواجهة الرئيسية. </li>
+<li> إضافة خيارات جديدة لتعديل ثيم(الوان) الواجهة الرئيسية </li>
+<li> إضافة خيار لتشغيل الصوت مع الفيديو بشكل تلقائي في المنشورات </li>
+<li> إضافة خيار لتشغيل الصوت مع الفيديو بشكل تلقائي في الحالة/الستوري </li>
+<li> يمكنك معرفة من يتابعك(ادخل الملف الشخص لاي شخص ستجد كلمة يتابعك ان كان يتابعك) </li>
+<li> إضافة خيار لتعطيل السحب يمين/ يسار في الواجهة الرئيسية </li>
+<li> اضافة امكانية اخفاء "جاري الكتابة.." في DM </li>
+<li> إضافة خيار لتحويل خلفية الاعدادات الى الوضع الليلي </li>
+<li> اضافة خيار لاعادة تعين كل الاعدادات الى وضعها الافتراضي </li>
+<li> تحسينات على واجهة الاعدادات  </li>
+<li> دعم اللغة الصينية المبسطة & الاذربيجانية & التركية & الفرنسية </li>
+<li> إصلاح خيار البحث عن تحديث الجديد </li>
+<li> إصلاح خيار تحميل صورة/ فيديو  </li>
+<li> إصلاح انهيار التطبيق عند اجراء مكالمة فيديو </li>
+<li> إصلاح انهيار التطبيق في نظام الاوريو و Pie </li>
+<li> إصلاحات اخرى </li>
 
-<li> New Base Updated to 92.0.0.15.114 </li>
-<li> Added Privacy - Hide View live Video (Don't tell Anyone that you Viewed His/Her Video Live)</li>
-<li> Added Privacy - Hide Read Tick (Don't tell the sender that you have read the message) In DM</li>
-<li> Long-press on the Instagram logo (in Action Bar) to open InstaUltra Settings.</li>
-<li> Added Ability to Zoom Profile Pics (Press & Hold the Profile Image)</li>
-<li> Support Arabic & Malayalam & Persian & Swahili & indonesia & Greek & Spanish & Germany & Malay & Italian & Portuguese languages</li>
-<li> Other Fixes..</li>
+<li> New Base Updated to 100.0.0.17.129 </li>
+<li> Added Option to Disable Slide Navigation </li>
+<li> Long-press on Home Icon to open InstaPro Settings. </li>
+<li> Added Options to Theme Home Screen (Mod 4.x) </li>
+<li> Added Option to Start Audio Directly with Video </li>
+<li> Added Option to Start stories directly with sound </li>
+<li> Added Privacy - Hide typing.... (Don't tell the sender that you are typing a message In DM) </li>
+<li> Added Option Night Blue Theme for ALL InstaUltra Settings </li>
+<li> Added Option to Reset All Options to default </li>
+<li> NEW InstaUltra UI and Re-organized </li>
+<li> Added You will know who follows you </li>
+<li> Added Option to share InstaUltra with your friends </li>
+<li> Support Simplified Chinese & Turkish & Azerbaijani & French languages </li>
+<li> Fixed Update App Checker </li>
+<li> Fixed Download Video/Images Options </li>
+<li> Removed Ability to Zoom Profile Pics </li>
+<li> Fixed InstaUltra crash in Android Oreo and pie </li>
+<li> Bugs fixes and speed improvements... </li>
+
 
 
 
