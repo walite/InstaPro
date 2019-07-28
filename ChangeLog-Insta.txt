@@ -1,4 +1,4 @@
-{"version_code":9,"content":"
+{"version_code":10,"content":"
 <p>تحديث 1.30</p>
 
 <li>التحديث لنسخة الماركت100.0.0.17.129</li>
@@ -18,25 +18,6 @@
 <li>إصلاح انهيار التطبيق عند اجراء مكالمة فيديو </li>
 <li>إصلاح انهيار التطبيق في نظام الاوريو و Pie </li>
 <li>إصلاحات اخرى</li>
-
-<li>New Base Updated to 100.0.0.17.129</li>
-<li>Added Option to Disable Slide Navigation</li>
-<li>Long-press on Home Icon to open InstaPro Settings.</li>
-<li>Added Options to Theme Home Screen (Mod 4.x)</li>
-<li>Added Option to Start Audio Directly with Video</li>
-<li>Added Option to Start stories directly with sound</li>
-<li>Added Privacy - Hide typing.... (Don't tell the sender that you are typing a message In DM)</li>
-<li>Added Option Night Blue Theme for ALL InstaUltra Settings</li>
-<li>Added Option to Reset All Options to default</li>
-<li>NEW InstaUltra UI and Re-organized</li>
-<li>Added You will know who follows you</li>
-<li>Added Option to share InstaUltra with your friends</li>
-<li>Support Simplified Chinese & Turkish & Azerbaijani & French languages</li>
-<li>Fixed Update App Checker</li>
-<li>Fixed Download Video/Images Options</li>
-<li>Removed Ability to Zoom Profile Pics</li>
-<li>Fixed InstaUltra crash in Android Oreo and pie</li>
-<li>Bugs fixes and speed improvements...</li>
 
 
 
