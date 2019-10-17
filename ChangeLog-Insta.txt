@@ -1,4 +1,4 @@
-{"version_code":452,"content":"
+{"version_code":45,"content":"
 <p>تحديث 1.30</p>
 
 <li>تحديث جديد</li>
@@ -6,5 +6,5 @@
 <li>New Update</li>
 
 
-","url":"https://www.devsaif.com/2019/03/Insta-Pro.html"
+","url":"https://www.syroid.co/2019/10/InstaPro.html"
 }
