@@ -1,4 +1,4 @@
-{"version_code":211817030,"content":"
+{"version_code":1,"content":"
 <p>تحديث 1.30</p>
 
 <li>تحديث جديد</li>
